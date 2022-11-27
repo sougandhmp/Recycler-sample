@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample1</string>
+    <string name="main_button_text">Open List</string>
+</resources>
