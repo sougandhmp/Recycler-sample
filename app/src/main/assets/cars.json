@@ -226,7 +226,7 @@
   },
   {
     "num_models": 12,
-    "img_url": "http://www.carlogos.org/uploads/car-logos/Volkswagen-logo-1.jpg",
+    "img_url": "https://uploads.vw-mms.de/system/production/images/vwn/007/966/images/55b7c491ac9c323f2ab4709f6da6edab14d9e767/DB2012AU00293_web_1600.jpg",
     "max_car_id": 363,
     "id": 26,
     "name": "volkswagen",
@@ -280,7 +280,7 @@
   },
   {
     "num_models": 25,
-    "img_url": "http://www.carlogos.org/uploads/car-logos/Lexus-logo-1.jpg",
+    "img_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Lexus_electric_supercar_sports_LFA_successor.jpg",
     "max_car_id": 222,
     "id": 32,
     "name": "lexus",
